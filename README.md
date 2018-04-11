@@ -1,9 +1,9 @@
 __DevOps__
 
 + Indrodução
-+ A "transformação digital"
-+ Desafios
-+ O {Que|Porque|Como} ?
+  - A "transformação digital"
+  - Desafios
++ DevOps: {O Que|Porque|Como} ?
   - Historia
   - Conflitos (cenarios)
     *  Sem o DevOps
