@@ -4,7 +4,7 @@ __DevOps__
 * A "transformação digital"
 * Desafios
 * O {Que|Porque|Como} ?
--- Historia
+ ** Historia
 -- Conflitos (cenarios)
 --- Sem o DevOps
 --- Com o DevOps
